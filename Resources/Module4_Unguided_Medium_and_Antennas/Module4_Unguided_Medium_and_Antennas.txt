@@ -1,0 +1,37 @@
+Computer Networks Transmission Media (Unguided) and Antennas
+
+Amitangshu PalComputer Science and EngineeringIIT Kanpur
+Antennas
+Electrical conductors used to radiate or collect electromagnetic energyTransmission antenna: Electrical energy  converted to electromagnetic energy  radiated into the surroundingReception antenna: Electromagnetic energy  converted to electrical energy  fed to the receiver
+Isotropic Antennas
+Isotropic antenna: A point in space that radiates power in all directions equally with a spherical radiation pattern
+
+Src: https://en.wikipedia.org/wiki/Free-space_path_loss
+Isotropic Antennas
+
+Omni-directional Antennas
+Omni-directional antenna: power propagates uniformly in all directions in a planeCell phones, FM radios, walkie-talkies etc.
+Src: https://commons.wikimedia.org/wiki/File:Elem-doub-rad-pat-pers.svg
+Directional Antennas
+Directional antenna: Parabolic reflective antenna     	
+Antennas
+Directional antenna: Parabolic reflective antennaSatellite communications, radio telescopes etc.     	
+Src:https://commons.wikimedia.org/wiki/File:Antenna_03.JPG
+Antenna Gain
+Antenna gain: Measure of directionalityDefined as the power output in a particular direction, compared to that produced in any direction by a perfect isotropic antenna (dBi)http://www.cisco.com/en/US/prod/collateral/wireless/ps7183/ps469/product_data_sheet09186a008008883b.html
+
+Radiated power of directional antenna
+Radiated power of isotropic antenna
+Src: https://www.ahsystems.com/articles/Understanding-antenna-gain-beamwidth-directivity.php
+Antenna Gain
+Consider a directional antenna with a gain of 6 dB over a reference antenna and that radiates 700 W. How much power must the reference antenna radiates to provide the same signal power in the preferred direction?
+
+Src: https://www.ahsystems.com/articles/Understanding-antenna-gain-beamwidth-directivity.php
+Free Space Path Loss
+Free space path loss: : Transmit antenna gain: Receiver antenna gainReceiver antenna provides an aperture with an effective area for receiving a fraction of the transmitted power
+
+Free Space Path Loss
+Assume that a ground station is transmitting a signal of 250 W to a satellite at 4 GHz (earth to satellite distance is 35863 km). The antenna gains are 44 dB and 48 dB. What is the received power?
+
+Summary
+Wireless transmission medium:Isotropic, omnidirectional and directional antennaFree space path lossAntenna gain
